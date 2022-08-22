@@ -35,6 +35,7 @@ namespace Login
             this.TXT_UsuarioPrincipal = new System.Windows.Forms.TextBox();
             this.TXT_SenhaPrincipal = new System.Windows.Forms.TextBox();
             this.BTN_EntrarPrincipal = new System.Windows.Forms.Button();
+            this.BTN_CadastrarPrincipal = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // LBL_Principal
@@ -92,11 +93,23 @@ namespace Login
             this.BTN_EntrarPrincipal.UseVisualStyleBackColor = true;
             this.BTN_EntrarPrincipal.Click += new System.EventHandler(this.BTN_EntrarPrincipal_Click);
             // 
+            // BTN_CadastrarPrincipal
+            // 
+            this.BTN_CadastrarPrincipal.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
+            this.BTN_CadastrarPrincipal.Location = new System.Drawing.Point(93, 211);
+            this.BTN_CadastrarPrincipal.Name = "BTN_CadastrarPrincipal";
+            this.BTN_CadastrarPrincipal.Size = new System.Drawing.Size(92, 34);
+            this.BTN_CadastrarPrincipal.TabIndex = 6;
+            this.BTN_CadastrarPrincipal.Text = "Cadastar";
+            this.BTN_CadastrarPrincipal.UseVisualStyleBackColor = true;
+            this.BTN_CadastrarPrincipal.Click += new System.EventHandler(this.BTN_CadastrarPrincipal_Click);
+            // 
             // FRM_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(385, 280);
+            this.Controls.Add(this.BTN_CadastrarPrincipal);
             this.Controls.Add(this.BTN_EntrarPrincipal);
             this.Controls.Add(this.TXT_SenhaPrincipal);
             this.Controls.Add(this.TXT_UsuarioPrincipal);
@@ -106,6 +119,7 @@ namespace Login
             this.Name = "FRM_Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tela Login";
+            this.Load += new System.EventHandler(this.FRM_Principal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -119,6 +133,7 @@ namespace Login
         private System.Windows.Forms.TextBox TXT_UsuarioPrincipal;
         private System.Windows.Forms.TextBox TXT_SenhaPrincipal;
         private System.Windows.Forms.Button BTN_EntrarPrincipal;
+        private System.Windows.Forms.Button BTN_CadastrarPrincipal;
     }
 }
 

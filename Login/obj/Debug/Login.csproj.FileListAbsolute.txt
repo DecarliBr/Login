@@ -18,3 +18,4 @@ C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.csproj.Ge
 C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
 C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.exe
 C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.pdb
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.FRM_CadastroCliente.resources
