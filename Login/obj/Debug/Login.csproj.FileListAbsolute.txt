@@ -8,3 +8,13 @@ C:\Users\henri\Documents\ProjetosGit\Login\Login\obj\Debug\Login.csproj.Generate
 C:\Users\henri\Documents\ProjetosGit\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
 C:\Users\henri\Documents\ProjetosGit\Login\Login\obj\Debug\Login.exe
 C:\Users\henri\Documents\ProjetosGit\Login\Login\obj\Debug\Login.pdb
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\bin\Debug\Login.exe
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\bin\Debug\Login.pdb
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.FRM_Principal.resources
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\henri\Documents\ProjetosGit\Login\Login\Login\obj\Debug\Login.pdb
