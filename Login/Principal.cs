@@ -88,5 +88,15 @@ namespace Login
         {
 
         }
+
+        private void BTN_PrincipalX_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void TXT_SenhaPrincipal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

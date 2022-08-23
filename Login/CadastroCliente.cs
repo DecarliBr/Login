@@ -35,7 +35,7 @@ namespace Login
 
             if (TXT_NomeCadastro.Text == "" || TXT_SenhaCadastro.Text == "")
             {
-                MessageBox.Show("Favor inserir dados para login", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Favor inserir dados para cadastro", "Atenção", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 
             }
             else
@@ -51,7 +51,7 @@ namespace Login
                     //onde quero que o comando seja executado
                     cm.Connection = cn;
 
-                    //executando leitura dos dados inmformados nop banco de dados
+                    //executando leitura dos dados informados nop banco de dados
                     dr = cm.ExecuteReader();
 
                     MessageBox.Show("Usuario cadastrado com sucesso", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -72,6 +72,16 @@ namespace Login
                 }
             }
 
+        }
+
+        private void BTN_CadastroX_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void TXT_SenhaCadastro_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }
