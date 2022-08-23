@@ -46,7 +46,8 @@ namespace Login
                     cn.Open();
 
                     //cm = Objeto Commandd, enviando comando de tipo texto para o banco de dados verificar a existencia do dado
-                    cm.CommandText = "insert into Userlogin (nome, senha) values('" + TXT_NomeCadastro.Text + "','" + TXT_SenhaCadastro.Text + "' )";
+                    //utilizando interpolação de Strings ($)
+                    cm.CommandText = $"insert into Userlogin (nome, senha) values( '{TXT_NomeCadastro.Text}','{TXT_SenhaCadastro.Text}' )";
 
                     //onde quero que o comando seja executado
                     cm.Connection = cn;

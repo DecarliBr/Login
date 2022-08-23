@@ -43,7 +43,8 @@ namespace Login
                     cn.Open();
 
                     //cm = Objeto Commandd, enviando comando de tipo texto para o banco de dados verificar a existencia do dado
-                    cm.CommandText = "select * from Userlogin where nome = ('" + TXT_UsuarioPrincipal.Text+"') and senha = ('"+TXT_SenhaPrincipal.Text+"')";
+                    //utilizando interpolação de Strings ($)
+                    cm.CommandText = $"select * from Userlogin where nome = ('{TXT_UsuarioPrincipal.Text}') and senha = ('{TXT_SenhaPrincipal.Text}')";
 
                     //onde quero que o comando seja executado
                     cm.Connection = cn;
