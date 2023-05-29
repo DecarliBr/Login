@@ -1,3 +1,17 @@
+# Sistema Login
+Projeto tem como objetivo treinar o desenvolvimento em C# e a comunicação com banco de dados
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Sistema Login**
+| :label: Tecnologias | c#, SQL Server
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
+## Detalhes do projeto
+
 Sistema de login com validação de usuarios no banco de dados SQL Server
 ![Screenshot_5](https://user-images.githubusercontent.com/49539774/186215392-88dd5346-fc17-4c6a-b778-6735281d3cbb.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/49539774/186215499-42fb3c46-a412-466c-bee4-d7c535911084.png)
