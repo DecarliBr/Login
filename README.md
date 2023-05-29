@@ -5,8 +5,6 @@ Projeto tem como objetivo treinar o desenvolvimento em C# e a comunicação com 
 | -------------  | --- |
 | :sparkles: Nome        | **Sistema Login**
 | :label: Tecnologias | c#, SQL Server
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
