@@ -11,7 +11,7 @@ Projeto tem como objetivo treinar o desenvolvimento em C# e a comunicação com 
 ## Detalhes do projeto
 
 Sistema de login com validação de usuarios no banco de dados SQL Server
-![Screenshot_5](https://user-images.githubusercontent.com/49539774/186215392-88dd5346-fc17-4c6a-b778-6735281d3cbb.png #vitrinedev)
+![Screenshot_5](https://user-images.githubusercontent.com/49539774/186215392-88dd5346-fc17-4c6a-b778-6735281d3cbb.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/49539774/186215499-42fb3c46-a412-466c-bee4-d7c535911084.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/49539774/186215521-4f45c661-41d8-4843-bedb-d56c0f515268.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/49539774/186215557-e8a585a0-dcc0-4594-8f6d-9a50d510ef67.png)
