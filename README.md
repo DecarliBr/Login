@@ -7,7 +7,7 @@ Projeto tem como objetivo treinar o desenvolvimento em C# e a comunicação com 
 | :label: Tecnologias | c#, SQL Server
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/DecarliBr/Login/main/login.png#vitrinedev)
 
 ## Detalhes do projeto
 
